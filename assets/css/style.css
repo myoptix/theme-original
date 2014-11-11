@@ -190,7 +190,7 @@ a:hover {
   color: #69A9D3;
 }
 p {
-  color: #333333;
+  color: #69A9D3;
 }
 .navbar {
   box-shadow: 0;
@@ -221,7 +221,7 @@ a.brand:visited {
 a.brand:hover,
 a.brand:link:hover,
 a.brand:visited:hover {
-  color: #333;
+  color: #69A9D3;
 }
 .nav li a,
 .nav li a:link,
@@ -245,7 +245,7 @@ a.brand:visited:hover {
 .nav li:hover a:link,
 .nav li:hover a:visited,
 .nav li.active a:link {
-  color: #333;
+  color: #69A9D3;
 }
 .nav li a {
   padding-right: 0 !important;
@@ -379,7 +379,7 @@ h6 {
   border: 0;
 }
 .post .post-content .post-pdf .pdf-fullscreen:hover {
-  color: #fff;
+  color: #69A9D3;
   -moz-opacity: 1;
   -khtml-opacity: 1;
   -webkit-opacity: 1;
@@ -599,7 +599,7 @@ footer {
   background-color: transparent;
 }
 .login form {
-  background-color: #fff;
+  background-color: #69A9D3;
   padding: 40px;
   -ms-box-sizing: border-box;
   -moz-box-sizing: border-box;
