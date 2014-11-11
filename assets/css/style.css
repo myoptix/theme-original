@@ -175,13 +175,13 @@
 /* IE7 */
 /* used for styling post content in themes */
 body {
-  font-family: 'Open Sans', comfortaa, sans-serif;
+  font-family: comfortaa, sans-serif;
 }
 a {
-  color: #2eb18d;
+  color: ##FF711E;
 }
 a:visited {
-  color: #2eb18d;
+  color: ##FF711E;
 }
 a:active {
   color: #d84c30;
@@ -522,7 +522,7 @@ footer {
   left: 30px;
   color: #000;
   font-size: 12px;
-  background-color: #2eb18d;
+  background-color: #FF711E;
   padding: 10px;
   border-radius: 7px;
   -moz-opacity: 0.3;
