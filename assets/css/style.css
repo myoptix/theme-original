@@ -178,7 +178,7 @@ body {
   font-family: comfortaa, sans-serif;
 }
 a {
-  color: #FF711E;
+  color: #7F7F7F;
 }
 a:visited {
   color: #69A9D3;
@@ -190,7 +190,7 @@ a:hover {
   color: #69A9D3;
 }
 p {
-  color: #69A9D3;
+  color: #7F7F7F;
 }
 .navbar {
   box-shadow: 0;
@@ -379,7 +379,7 @@ h6 {
   border: 0;
 }
 .post .post-content .post-pdf .pdf-fullscreen:hover {
-  color: #69A9D3;
+  color: #7F7F7F;
   -moz-opacity: 1;
   -khtml-opacity: 1;
   -webkit-opacity: 1;
